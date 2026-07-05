@@ -59,7 +59,7 @@ Books dataset scraped from a public demo website for learning purposes.
 ---
 
 ## 👨‍💻 Author
-Vinayak (Intern - CodeAlpha Data Analytics Internship)
+Aryan (Intern - CodeAlpha Data Analytics Internship)
 
 ---
 
